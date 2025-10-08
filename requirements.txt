@@ -1,0 +1,8 @@
+undetected-chromedriver
+openai-whisper
+pytesseract
+Pillow
+requests
+beautifulsoup4
+langdetect
+selenium

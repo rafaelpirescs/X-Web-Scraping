@@ -1,0 +1,10 @@
+# Processo Eleitoral
+(urna OR voto) (eletronica OR eletronico OR impresso OR auditavel)
+# Eventos Eleitorais
+(debate OR pesquisa) (eleitoral OR eleicoes)
+(eleicao OR eleicoes OR votacao)
+(manipulada OR fraude OR irregularidade)
+# Instituições
+(tse OR stf OR camara OR senado OR congresso OR governo)
+# Figuras Politicas
+(lula OR bolsonaro OR "alexandre de moraes")
