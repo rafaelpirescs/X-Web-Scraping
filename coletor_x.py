@@ -5,7 +5,7 @@ através de um front-end web (Nitter/Twiiit), coletando postagens com base em um
 lista de termos de busca.
 
 Seu principal diferencial é a capacidade de também processar as mídias anexadas as postagens:
-- Utiliza Tesseract OCR para extrair texto de imagens.
+- Utiliza o Tesseract OCR para extrair texto de imagens.
 - Utiliza o modelo Whisper da OpenAI para transcrever o áudio de vídeos.
 """
 import time
