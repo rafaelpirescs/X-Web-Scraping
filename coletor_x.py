@@ -265,7 +265,7 @@ def midia_tem_audio(caminho_midia: Path) -> bool:
 def iniciar_driver() -> uc.Chrome:
     options = uc.ChromeOptions()
     options.add_argument(f"--user-data-dir={PROFILE_PATH}")
-    driver = uc.Chrome(options=options, headless=False)
+    driver = uc.Chrome(options=options, headless=False, version_main=147)
     return driver
 
 def coletar_posts_com_selenium(posts_ja_coletados: Set[str], modelo_whisper) -> List[Dict[str, Any]]:
