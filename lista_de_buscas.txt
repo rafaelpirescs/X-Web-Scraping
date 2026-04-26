@@ -1,0 +1,9 @@
+# Processo Eleitoral
+(urna OR voto) (eletronica OR auditavel)
+# Eventos Eleitorais
+(debate OR pesquisa) (eleitoral OR eleicoes)
+(eleicao OR eleicoes OR votacao)
+# Instituições
+(tse OR stf OR camara OR senado OR congresso OR governo)
+# Figuras Politicas
+(presidente OR senador OR "deputado")
